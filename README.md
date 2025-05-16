@@ -30,8 +30,8 @@ Built with [Streamlit](https://streamlit.io/), [Selenium](https://www.selenium.d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Scraper-Tool.git
-cd AI-Scraper-Tool
+git clone https://github.com/shahdhairya51/AI-Web-Scrapper.git
+cd AI-Web-Scrapper
 ```
 
 ### 2. Set Up Python Environment
